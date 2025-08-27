@@ -1,4 +1,4 @@
-# ImGui Android for AIDE Lite Mod
+# ImGui Android for AIDE Lite Mod, Android Studio
 
 Minimal NativeActivity + OpenGL ES 3.0 app wired for Dear ImGui, using ndk-build. Works in AIDE Lite Mod and Android Studio.
 
